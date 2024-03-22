@@ -3,7 +3,7 @@ function cookSteak(steakWeight, desiredDoneness) {
     let steakTemperature = 0;
     
     // Step 1: Preheat the grill
-    grillTemperature = 204; 
+    grillTemperature = 204;
     
     // Step 2: Season the steak
     const seasoning = 'Salt and Pepper';
